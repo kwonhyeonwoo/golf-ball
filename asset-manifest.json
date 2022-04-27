@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/golf-ball/static/css/main.844f0c64.css",
+    "main.js": "/golf-ball/static/js/main.ee6ab337.js",
+    "static/media/flower4.png": "/golf-ball/static/media/flower4.db37b0f08056fa334893.png",
+    "static/media/flower5.png": "/golf-ball/static/media/flower5.db37b0f08056fa334893.png",
+    "static/media/KakaoTalk_Photo_2022-04-13-11-41-12 005.png": "/golf-ball/static/media/KakaoTalk_Photo_2022-04-13-11-41-12 005.3fc4a73afacb6aa63a60.png",
+    "static/media/flower8.png": "/golf-ball/static/media/flower8.14596fea95b9c03e6db0.png",
+    "static/media/flower7.png": "/golf-ball/static/media/flower7.2e72c7d83384960bf605.png",
+    "static/media/flower6.png": "/golf-ball/static/media/flower6.b9cf28ad368afec3771b.png",
+    "static/media/flower9.png": "/golf-ball/static/media/flower9.b8810ac7ad6b5ffd6177.png",
+    "static/media/flower2.png": "/golf-ball/static/media/flower2.44bbc1e11a62e27657f1.png",
+    "static/media/chararter3.png": "/golf-ball/static/media/chararter3.0bd523f06e204925f842.png",
+    "static/media/flower3.png": "/golf-ball/static/media/flower3.ec881d299eacf0132625.png",
+    "static/media/flower1.png": "/golf-ball/static/media/flower1.d1dac8139a655d46bb85.png",
+    "static/media/KakaoTalk_Photo_2022-04-13-11-41-12 004.png": "/golf-ball/static/media/KakaoTalk_Photo_2022-04-13-11-41-12 004.98852195f92b7f666324.png",
+    "static/media/chararter9.png": "/golf-ball/static/media/chararter9.5826abd5542a0a22da2c.png",
+    "static/media/chararter8.png": "/golf-ball/static/media/chararter8.ae22ab52ca5096fb7d46.png",
+    "static/media/chararter1.png": "/golf-ball/static/media/chararter1.f2b3ef3d4105155f6b39.png",
+    "static/media/chararter7.png": "/golf-ball/static/media/chararter7.071c70f421baef2b48d1.png",
+    "static/media/chararter2.png": "/golf-ball/static/media/chararter2.ad7fb600f75b49a2ffa5.png",
+    "static/media/chararter6.png": "/golf-ball/static/media/chararter6.dc6ab86d4e272f1ce41a.png",
+    "static/media/chararter5.png": "/golf-ball/static/media/chararter5.42799217e002954fb961.png",
+    "static/media/chararter4.png": "/golf-ball/static/media/chararter4.7d967bd135724b477aa1.png",
+    "static/media/slider3.png": "/golf-ball/static/media/slider3.bcbe284567ede5d57e08.png",
+    "static/media/slider2.png": "/golf-ball/static/media/slider2.5f29906fca0c82ff6646.png",
+    "static/media/slider1.png": "/golf-ball/static/media/slider1.530f4854eb7bcf7eb8a1.png",
+    "index.html": "/golf-ball/index.html",
+    "main.844f0c64.css.map": "/golf-ball/static/css/main.844f0c64.css.map",
+    "main.ee6ab337.js.map": "/golf-ball/static/js/main.ee6ab337.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.844f0c64.css",
+    "static/js/main.ee6ab337.js"
+  ]
+}
