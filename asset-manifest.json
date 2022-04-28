@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/golf-ball/static/css/main.c5af477b.css",
-    "main.js": "/golf-ball/static/js/main.52a45f05.js",
+    "main.css": "/golf-ball/static/css/main.c9a26b47.css",
+    "main.js": "/golf-ball/static/js/main.d86050ec.js",
     "static/media/flower4.png": "/golf-ball/static/media/flower4.db37b0f08056fa334893.png",
     "static/media/flower5.png": "/golf-ball/static/media/flower5.db37b0f08056fa334893.png",
     "static/media/KakaoTalk_Photo_2022-04-13-11-41-12 005.png": "/golf-ball/static/media/KakaoTalk_Photo_2022-04-13-11-41-12 005.3fc4a73afacb6aa63a60.png",
@@ -27,11 +27,11 @@
     "static/media/slider2.png": "/golf-ball/static/media/slider2.5f29906fca0c82ff6646.png",
     "static/media/slider1.png": "/golf-ball/static/media/slider1.530f4854eb7bcf7eb8a1.png",
     "index.html": "/golf-ball/index.html",
-    "main.c5af477b.css.map": "/golf-ball/static/css/main.c5af477b.css.map",
-    "main.52a45f05.js.map": "/golf-ball/static/js/main.52a45f05.js.map"
+    "main.c9a26b47.css.map": "/golf-ball/static/css/main.c9a26b47.css.map",
+    "main.d86050ec.js.map": "/golf-ball/static/js/main.d86050ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5af477b.css",
-    "static/js/main.52a45f05.js"
+    "static/css/main.c9a26b47.css",
+    "static/js/main.d86050ec.js"
   ]
 }
