@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/golf-ball/static/css/main.989b4190.css",
-    "main.js": "/golf-ball/static/js/main.61150f3a.js",
+    "main.css": "/golf-ball/static/css/main.31bc05ad.css",
+    "main.js": "/golf-ball/static/js/main.ba545618.js",
     "static/media/1-4.png": "/golf-ball/static/media/1-4.db37b0f08056fa334893.png",
     "static/media/flower5.png": "/golf-ball/static/media/flower5.db37b0f08056fa334893.png",
     "static/media/flower8.png": "/golf-ball/static/media/flower8.14596fea95b9c03e6db0.png",
@@ -30,11 +30,11 @@
     "static/media/1.png": "/golf-ball/static/media/1.9019dfcd5508c2835cd1.png",
     "static/media/slider1.png": "/golf-ball/static/media/slider1.530f4854eb7bcf7eb8a1.png",
     "index.html": "/golf-ball/index.html",
-    "main.989b4190.css.map": "/golf-ball/static/css/main.989b4190.css.map",
-    "main.61150f3a.js.map": "/golf-ball/static/js/main.61150f3a.js.map"
+    "main.31bc05ad.css.map": "/golf-ball/static/css/main.31bc05ad.css.map",
+    "main.ba545618.js.map": "/golf-ball/static/js/main.ba545618.js.map"
   },
   "entrypoints": [
-    "static/css/main.989b4190.css",
-    "static/js/main.61150f3a.js"
+    "static/css/main.31bc05ad.css",
+    "static/js/main.ba545618.js"
   ]
 }
